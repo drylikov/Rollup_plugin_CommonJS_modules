@@ -108,8 +108,3 @@ commonjs({
 ES modules are *always* parsed in strict mode. That means that certain non-strict constructs (like octal literals) will be treated as syntax errors when Rollup parses modules that use them. Some older CommonJS modules depend on those constructs, and if you depend on them your bundle will blow up. There's basically nothing we can do about that.
 
 Luckily, there is absolutely no good reason *not* to use strict mode for everything — so the solution to this problem is to lobby the authors of those modules to update them.
-
-
-## License
-
-MIT
