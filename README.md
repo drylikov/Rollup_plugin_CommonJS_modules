@@ -1,4 +1,4 @@
-# rollup-plugin-commonjs [![Build Status][travis-img]][travis]
+# Rollup_plugin_CommonJS_modules [![Build Status][travis-img]][travis]
 
 [travis-img]: https://travis-ci.org/rollup/rollup-plugin-commonjs.svg
 [travis]: https://travis-ci.org/rollup/rollup-plugin-commonjs
